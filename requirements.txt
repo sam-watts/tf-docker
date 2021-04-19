@@ -64,7 +64,7 @@ nfnets-keras==0.0.2
 notebook==6.0.3
 numpy==1.19.5
 oauthlib==3.1.0
-opencv-python
+opencv-python==4.5.0
 opt-einsum==3.3.0
 packaging==19.2
 pandas==0.25.3
