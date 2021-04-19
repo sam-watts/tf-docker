@@ -49,7 +49,6 @@ jupyterlab==2.1.0
 jupyterlab-server==1.1.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
-libxrender1
 Markdown==3.2.1
 MarkupSafe==1.1.1
 marshmallow==2.20.5
@@ -65,7 +64,7 @@ nfnets-keras==0.0.2
 notebook==6.0.3
 numpy==1.19.5
 oauthlib==3.1.0
-opencv-python
+opencv-python-headless
 opt-einsum==3.3.0
 packaging==19.2
 pandas==0.25.3
